@@ -1,6 +1,6 @@
 # Final Project
 
-**Soccer League Management System**
+**Soccer League Management System**    
 Final Project for INFO5100 
 
 ## Author
